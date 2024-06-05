@@ -1,1 +1,0 @@
-# LogicalInvestigations_june1
