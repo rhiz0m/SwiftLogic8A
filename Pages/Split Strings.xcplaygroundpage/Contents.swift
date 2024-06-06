@@ -8,7 +8,6 @@
  
  **/
 
-
 let myString = "testing"
 
 func solution(_ str: String) -> [String] {

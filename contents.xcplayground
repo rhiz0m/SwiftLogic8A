@@ -3,5 +3,6 @@
     <pages>
         <page name='Split Strings'/>
         <page name='Number of Decimal Digits'/>
+        <page name='Grasshopper - Personalized Message'/>
     </pages>
 </playground>
