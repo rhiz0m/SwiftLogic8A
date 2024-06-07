@@ -11,14 +11,19 @@ Write a code that gives out the total amount for different days(d).
 
 func RentalCarCost(_ days: Int) -> Int {
     let rentPerDay = days * 40
-    
-        if (days >= 7) {
-            return rentPerDay  - 50
-        } else if (days >= 3) {
-            return rentPerDay - 20
-        } else {
-            return rentPerDay
-        }
+
+    return days >= 7 ? rentPerDay - 50 :
+           days >= 3 ? rentPerDay - 20 :
+           rentPerDay
 }
 
-print(RentalCarCost(4))
+print("The rental cost is $\(RentalCarCost(2))")
+
+
+//        if (days >= 7) {
+//            return rentPerDay  - 50
+//        } else if (days >= 3) {
+//            return rentPerDay - 20
+//        } else {
+//            return rentPerDay
+//        }
