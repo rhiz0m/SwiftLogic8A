@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
     <pages>
-        <page name='Split Strings'/>
-        <page name='Number of Decimal Digits'/>
-        <page name='Grasshopper - Personalized Message'/>
+        <page name='6. 1 Split Strings'/>
+        <page name='7. 1 Number of Decimal Digits'/>
+        <page name='8. 1. Grasshopper - Personalized Message'/>
+        <page name='8. 2. Transportation on vacation'/>
+        <page name='8. 3'/>
+        <page name='8. 4'/>
+        <page name='8. 5'/>
+        <page name='8. 6'/>
+        <page name='8. 7'/>
+        <page name='8. 8'/>
+        <page name='8. 9'/>
+        <page name='8. 10'/>
+        <page name='8. 11'/>
+        <page name='8. 12'/>
+        <page name='8. 13'/>
+        <page name='8. 14'/>
+        <page name='8. 15'/>
+        <page name='8. 16'/>
+        <page name='8. 17'/>
+        <page name='8. 18'/>
+        <page name='8. 19'/>
+        <page name='8. 20'/>
+        <page name='8. 21'/>
+        <page name='8. 22'/>
+        <page name='8. 23'/>
+        <page name='8. 24'/>
+        <page name='8. 25'/>
     </pages>
 </playground>
