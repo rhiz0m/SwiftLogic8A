@@ -8,10 +8,13 @@
  **/
 
 func squareSum(_ vals: [Int]) -> Int {
-    var arr = vals
+    var sum = 0
     
-  
-    return arr
+    for item in vals {
+        sum += (item * item)
+    }
+    return sum
+   
 }
 
-squareSum([1, 2, 2])
+print(squareSum([1, 2, 2]))
