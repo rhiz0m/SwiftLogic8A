@@ -22,5 +22,3 @@ print(monkeyCount(5))
 //    for item in 1...n {
 //        monkeyArr.append(item)
 //    }
-
-Count the Monkeys
