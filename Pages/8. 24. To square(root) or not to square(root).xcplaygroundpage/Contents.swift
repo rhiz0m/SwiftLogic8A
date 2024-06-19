@@ -1,21 +1,33 @@
 /**
  
  DESCRIPTION:
- Story:
- You are going to make toast fast, you think that you should make multiple pieces of toasts and once. So, you try to make 6 pieces of toast.
+ Write a method, that will get an integer array as parameter and will process every number from this array.
  
- Problem:
- You forgot to count the number of toast you put into there, you don't know if you put exactly six pieces of toast into the toasters.
-
- Define a function that counts how many more (or less) pieces of toast you need in the toasters. Even though you need more or less, the number will still be positive, not negative.
-
- Examples:
- You must return the number of toast the you need to put in (or to take out). In case of 5 you can still put 1 toast in:
+ Return a new array with processing every number of the input-array like this:
  
- six_toast(5) == 1
+ If the number has an integer square root, take this, otherwise square the number.
  
- And in case of 12 you need 6 toasts less (but not -6):
- 
- six_toast(12) == 6
+ Example
+ [4,3,9,7,2,1] -> [2,9,3,49,4,1]
  
  **/
+
+import Foundation
+
+func squareOrSquareRoot(_ input: [Int]) -> [Int] {
+    
+    var arr: [Int] = []
+    
+    for num in input {
+        let squaredNum = Int(sqrt(Double(num)))
+        
+        if squaredNum * squaredNum == num {
+            arr.append(Int(squaredNum))
+        } else {
+            arr.append(num * num)
+        }
+    }
+    return arr
+}
+
+print(squareOrSquareRoot([4,3,9,7,2,1]))
