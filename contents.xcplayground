@@ -23,8 +23,7 @@
         <page name='8. 21. Returning String'/>
         <page name='8. 22. Enumerable Magic #25 - Take the First N Elements'/>
         <page name='8. 23. Stringy Strings'/>
-        <page name='8. 24.'/>
-        <page name='8. 25'/>
+        <page name='8. 25. Making Six Toast'/>
         <page name='8. 26.'/>
         <page name='8. 27.'/>
         <page name='8. 28.'/>
@@ -51,5 +50,6 @@
         <page name='8. 50.'/>
         <page name='8. 17. Get the mean of an array'/>
         <page name='8. 18. Convert number to reversed array of digits '/>
+        <page name='8. 24. Making Six Toast'/>
     </pages>
 </playground>
