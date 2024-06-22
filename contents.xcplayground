@@ -34,9 +34,8 @@
         <page name='8. 33. Quarter of the year'/>
         <page name='8. 34. Boolean to String'/>
         <page name='8. 35. Calculate BMI'/>
-        <page name='8. 36.'/>
-        <page name='8. 37.'/>
-        <page name='8. 38.'/>
+        <page name='8. 37. Opposite number'/>
+        <page name='8. 38. Reverse sequence'/>
         <page name='8. 39.'/>
         <page name='8. 40.'/>
         <page name='8. 41.'/>
@@ -51,5 +50,6 @@
         <page name='8. 17. Get the mean of an array'/>
         <page name='8. 18. Convert number to reversed array of digits '/>
         <page name='8. 24. To square(root) or not to square(root)'/>
+        <page name='8. 36. Bool to Word'/>
     </pages>
 </playground>
