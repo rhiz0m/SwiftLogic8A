@@ -1,7 +1,19 @@
-//: [Previous](@previous)
+/**
+ 
+ DESCRIPTION:
+ You are given two interior angles (in degrees) of a triangle.
 
-import Foundation
+ Write a function to return the 3rd.
 
-var greeting = "Hello, playground"
+ Note: only positive integers will be tested.
 
-//: [Next](@next)
+ https://en.wikipedia.org/wiki/Triangle
+ 
+ **/
+
+func otherAngle(a: Int, b: Int) -> Int {
+  180 - a - b
+}
+
+
+print(otherAngle(a: 20, b: 50))

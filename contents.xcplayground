@@ -42,8 +42,7 @@
         <page name='8. 42. Function1'/>
         <page name='8. 43. Clock2'/>
         <page name='8. 44. Get Nth Even Number'/>
-        <page name='8. 46.'/>
-        <page name='8. 47.'/>
+        <page name='8. 47. Messi goals function'/>
         <page name='8. 48.'/>
         <page name='8. 49.'/>
         <page name='8. 50.'/>
@@ -51,5 +50,6 @@
         <page name='8. 18. Convert number to reversed array of digits '/>
         <page name='8. 24. To square(root) or not to square(root)'/>
         <page name='8. 36. Bool to Word'/>
+        <page name='8. 46. Kata Example Twist'/>
     </pages>
 </playground>
