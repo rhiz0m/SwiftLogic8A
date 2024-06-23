@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
     <pages>
-        <page name='8. 45.'/>
+        <page name='8. 45.  squaring an argument'/>
         <page name='8. 1. Grasshopper - Personalized Message'/>
         <page name='8. 2. Transportation on vacation'/>
         <page name='8. 3. Sum Mixed Array'/>
